@@ -5,4 +5,4 @@ Functional School system based on ASP.NET
 - Once you do this, you could login through the following creditals:
 - Username: Admin
 - Password: Abcd1234.
-After log in you are able to use methods as admin. Including roles, grades, users managing and much more!
+- After log in you are able to use methods as admin. Including roles, grades, users managing and much more!
